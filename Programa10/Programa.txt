@@ -1,0 +1,4 @@
+suma = 15 + num;
+contador = contador + 1;
+resta = suma + resta;
+i = 0;

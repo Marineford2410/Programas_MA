@@ -1,0 +1,6 @@
+valor1
+szCadenas
+155entero
+Suma
+resutado15-entero
+EnTrAdA
